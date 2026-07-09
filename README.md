@@ -31,6 +31,7 @@ The main objectives of this project are:
 
 # 1. Body Structure
 ![Body Design](images/body-design.jpg)
+
 The robot uses a simple rectangular body because it is easy to manufacture and provides enough space for batteries, electronics, and motors.
 
 ### Proposed Dimensions
@@ -51,6 +52,7 @@ These materials are lightweight and provide sufficient mechanical strength.
 
 # 2. Leg Design
 ![Leg Design](images/leg-design.png)
+
 The robot has four identical legs.
 
 Each leg contains three joints:
@@ -130,6 +132,7 @@ A servo motor capable of producing at least **1 N·m** of torque is recommended 
 
 # 6. Stability and Center of Gravity
 ![Center of Gravity](images/center-of-gravity.png)
+
 The robot's center of gravity should remain close to the middle of the body and as low as possible.
 
 This improves balance and reduces the risk of tipping over while standing or walking.
@@ -138,6 +141,7 @@ This improves balance and reduces the risk of tipping over while standing or wal
 
 # 7. Proposed Walking Method
 ![Walking Gait](images/walking-gait.png)
+
 The proposed walking method is **Static Walk**.
 
 Walking sequence:
