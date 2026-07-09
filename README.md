@@ -8,12 +8,6 @@ This project focuses only on the mechanical design and does not include electron
 
 ---
 
-## Mechanical Design
-
-![Robot Dog Design](images/robot-dog-design.png)
-
----
-
 ## Project Objectives
 
 The main objectives of this project are:
